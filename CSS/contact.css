@@ -1,0 +1,38 @@
+/*.form{
+    margin:0px;
+} */
+
+.inquiry th{
+    width: 150px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.inquiry td .input_form{
+    width: 480px;
+}
+
+.inquiry tr{
+    height: 7rem;
+    width: 640px;
+    border-spacing: 10px;
+}
+
+.button{
+    background-color: #008B8B;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.button:hover{
+    opacity: 0.5;
+}
+
+.soushin{
+    text-align: center;
+    margin: 0 auto;
+}
